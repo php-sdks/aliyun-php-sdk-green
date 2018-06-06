@@ -1,0 +1,20 @@
+{
+    "name": "aliyun/aliyun-php-sdk-green",
+    "description": "Aliyun PHP SDK Green for composer",
+    "keywords": ["aliyun"],
+    "authors": [
+        {
+            "name": "Alibaba",
+            "email": "developer@aliyun.com",
+            "homepage": "https://www.aliyun.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Green\\": "Green/"
+        }
+    }
+}
